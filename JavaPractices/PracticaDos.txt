@@ -1,0 +1,7 @@
+public class PracticaDos{
+  public static vpid main(String args[]){
+    System.out.println("Hueles Feo");
+
+ }
+  
+}
