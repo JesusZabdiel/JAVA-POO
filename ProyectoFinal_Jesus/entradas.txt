@@ -1,0 +1,5 @@
+VEHICULO	PLACAS		MARCA		Ticket		MODELO		COLOR		FECHA
+Automovil	123-123		HONDA		ET00000001		CITY		BLANCO		Wed Dec 04 17:09:54 2019
+Motocicleta	123-ABC		MBW		ET00000002		----------		ROJO		Wed Dec 04 17:10:15 2019
+Camion	123-ABC		TOYOTA		ET00000003		----------		---------		Wed Dec 04 17:10:26 2019
+Bicicleta	-------		BENOTO		ET00000004		----------		AMARAILLO		Wed Dec 04 17:10:37 2019
